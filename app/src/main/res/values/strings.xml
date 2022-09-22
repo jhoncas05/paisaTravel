@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Paisa Travel</string>
+    <string name="agencia_de_tutismo_paisa_travel">Agencia de tutismo paisa travel</string>
+    <string name="nombre">Nombre</string>
+    <string name="_6">6</string>
+    <string name="adicionales">Adicionales</string>
+    <string name="tour_por_la_ciudad">Tour por la ciudad</string>
+    <string name="total_a_pagar">Total a pagar</string>
+    <string name="_4">4</string>
+    <string name="_2">2</string>
+    <string name="numero_de_dias">Numero de dias</string>
+    <string name="numero_personas">Numero personas</string>
+    <string name="numeropersonas">Numero personas</string>
+    <string name="fecha">fecha</string>
+    <string name="fecha_salida">Fecha salida</string>
+    <string name="destino">Destino</string>
+    <string name="ingrese_nombre">Ingrese nombre</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar_informacion">Limpiar informacion</string>
+    <string name="discoteca">Discoteca</string>
+</resources>
